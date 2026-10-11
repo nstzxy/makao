@@ -13,7 +13,7 @@ Goal: give the designer evidence they can defend in front of the CEO. Every clai
 
 ## 1. Sources (use what fits)
 - **GA4**: web property `260847366` (`https://analytics.google.com/analytics/web/#/a66621836p260847366/...`) and mobile apps property `442870372` (`.../#/a66621836p442870372/...`). Open them in the built-in browser; the designer is signed in there. Use reports and explorations for funnels, conversion by device, landing page, source and season. Read numbers with `get_page_text` and trend arrows (↑/↓) from a screenshot. Always state the date range and compare to the same period last year (seasonality: September, winter breaks, April–May exams). If the sign-in has expired, ask the designer to sign in again; never enter credentials.
-- **Live product**: odrabiamy.pl blocks curl/WebFetch (403), so use the built-in browser. Never log in or buy.
+- **Live product** (odrabiamy.pl + satellites): built-in browser only (curl/WebFetch get 403 and miss logged-in states). The designer signs in to the free or Premium account; never type passwords, sign out or buy.
 - **App stores**: "Odrabiamy – pomoc w nauce" on App Store and Google Play. Sample recent reviews; tag theme, sentiment and audience (parent vs student); quote verbatim in Polish (short).
 - **Competitors**: Brainly, Photomath, Gauth, ChatGPT/Gemini, zadania.info, tutoring (see `context/company.md`). Read their real pages (pricing, onboarding, paywall). Note the date seen.
 - **Regulation/market**: UOKiK, curriculum reform, exams. Use official sources (gov.pl, CKE, uokik.gov.pl).
