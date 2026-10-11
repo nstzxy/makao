@@ -8,6 +8,12 @@
 
 Oferta 2026 landmarks (may move — re-read before editing): page "1366", master frame `2464:51900` "1366 Offer Parents – final 01"; responsive frames to its right; earlier pages "Oferta Rodzic", sections "finals" / "semi-final".
 
+Which DS applies where (designer, 2026-10-11):
+- **odrabiamy.pl** → mostly DS WEB 2.0.
+- **iOS / Android apps** → a **separate app design system** Figma file (key unknown, ask for the link). Don't apply WEB 2.0 components to app screens.
+- **Satellites** → DS WEB 2.0 is attached but not used consistently. Expect drift; flag it, don't assume components match.
+- **Odrabiak illustrations** → in Figma (link pending), 3D style.
+
 Figma org: MAKALU MEDIA. The Figma connector must be signed in as the **work** account (anastasiaplytka@odrabiamy.pl), not a personal Gmail — check with `whoami` if you get "no edit access".
 
 ## Foundations (Design System WEB 2.0)

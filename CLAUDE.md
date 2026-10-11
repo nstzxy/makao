@@ -1,6 +1,6 @@
 # makao — Odrabiamy product design workspace
 
-I'm a holistic product designer for the whole of Odrabiamy (odrabiamy.pl, apps, satellite sites). My work covers UX, UI, product decisions, product research, prototypes and presenting ideas to C-level. This repo holds **context and tools**, not production code.
+I'm a holistic product designer for the whole of Odrabiamy (odrabiamy.pl, apps, satellite sites). My work covers UX, UI, product decisions, product research, prototypes and bringing ideas to the CEO. **The company priority now is conversion** (free → Premium). This repo holds **context and tools**, not production code.
 
 Read before working: `context/company.md` (product, audience, pricing, market) and `context/design-system.md` (Figma files, tokens, components, breakpoints). Treat them as known facts; don't make me re-explain them. If something is missing or contradicted, ask me, then update the file.
 
@@ -17,9 +17,9 @@ Read before working: `context/company.md` (product, audience, pricing, market) a
 |---|---|
 | Design, variants, responsive | **Figma** (skill `figma-variants`): new frames to the right of the original, never edit the original |
 | Review / audit | Chat (skill `audit`); Artifact page if it's for others |
-| Live prototype to share | Artifact (single HTML, DS tokens: Noto Sans, `#4f4fee`, `#313859`), using only real content |
-| C-level pitch | Slides artifact: problem → evidence → options → recommendation → impact/cost → ask. Max ~8 slides |
-| Research / competitor scan | Doc artifact with sources |
+| Live prototype to share | Artifact (skill `prototype`): single HTML, DS tokens (Noto Sans, `#4f4fee`, `#313859`), only real content |
+| Idea for the CEO | Idea brief in chat (skill `pitch`); Doc artifact to share; slides only if I ask |
+| Research / competitor scan / data | Skill `research`; Doc artifact with sources |
 
 **Don't create files in this repo** for deliverables (no .md reports, no app scaffolds) unless I ask. Scratch work goes in the scratchpad. The repo only changes when we improve `CLAUDE.md`, `context/` or skills.
 
@@ -27,11 +27,15 @@ Read before working: `context/company.md` (product, audience, pricing, market) a
 - `audit`: good and bad practices, first principles, Apple-grade, impact/effort, devil's advocate.
 - `figma-variants`: best-solution variants next to the original; DS components and tokens; new components allowed, marked 🆕.
 - `copy-pl`: short, warm, consistent Polish copy and typography; states parent vs student tone with arguments.
+- `pitch`: idea → decision-ready brief for the CEO (problem, evidence, options, recommendation, conversion impact, cost, ask).
+- `prototype`: Figma frame → shareable clickable HTML artifact; real content, DS tokens.
+- `research`: competitor scans, app-store reviews, live-site checks, GA4 data; synthesis with sources.
 - Also useful: `design:accessibility-review`, `design:user-research`, `design:research-synthesis`, `design:design-handoff`, `figma:figma-use` (required before `use_figma`).
 
-## Tool notes (cloud sessions)
+## Tool notes
 - Figma connector must be the **work** account (anastasiaplytka@odrabiamy.pl, org MAKALU MEDIA). On "no edit access", run `whoami` and tell me to reconnect.
-- The proxy blocks figma.com asset URLs and odrabiamy.pl (+ subdomains). Use `get_screenshot` with `enableBase64Response: true`, never curl. Ask me for screenshots of live pages, or try the browser tool.
 - Figma: plain `123:456` node ids for screenshots; `use_figma` returns < 20 KB; `get_metadata` on sections, not whole pages; one query per `search_design_system`; preload Noto Sans weights. Re-read nodes each turn, because I edit the file live.
-- Playwright: Chromium is under `/opt/pw-browsers`.
+- GA4: **web** property `260847366` (`#/a66621836p260847366/…`), **mobile apps** property `442870372` (`#/a66621836p442870372/…`). Read them in the **built-in browser** (I'm signed in there with read-only access). `get_page_text` gives numbers but loses ↑/↓, so take a screenshot for trend direction. Always state the date range and comparison period. Never invent numbers.
+- Live pages: odrabiamy.pl returns 403 to curl/WebFetch (bot protection); satellites mostly load. Use the built-in browser for odrabiamy.pl, or ask me for screenshots.
+- Cloud sessions only: the proxy blocks figma.com asset URLs and odrabiamy.pl (+ subdomains), so use `get_screenshot` with `enableBase64Response: true`; Chromium is under `/opt/pw-browsers`.
 - Git (only when changing this repo): author `nstzxy <anastasiaplytka@odrabiamy.pl>`, `claude/*` branches.

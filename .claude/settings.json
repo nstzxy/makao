@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__d2c722ef-231f-472a-b232-6e2e78d39258",
+      "mcp__plugin_figma_figma"
+    ]
+  }
+}
