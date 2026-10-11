@@ -50,7 +50,7 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 | Kursy wideo i lekcje | — | all |
 | AI on the book page | — | yes |
 | Odrabiak (AI) | basic, cheaper LLM, daily limits | stronger LLM, no limits |
-| Satellites | access, probably limited (to confirm per satellite) | extra benefits on satellites (to confirm which) |
+| Satellites (checked 2026-10-11) | ustna: 20/50 niejawne + 20/50 EN sets, 1 of 5 common errors · arkusze: all CKE tasks, no zadania autorskie · fiszki: ~same as Premium · kartypracy: poziom Odkrywca only · konkursy, blog: no login, no difference | ustna: all sets + transkrypcja PRO · arkusze: zadania autorskie, Odrabiak PRO plan, per-task stats · fiszki: Odrabiak PRO · kartypracy: Mistrz, Ekspert, Wersja A/B |
 - Never: dark patterns, decoys, strikethrough fake prices, fake urgency. Savings must be honest and say what they compare to.
 
 ## Competitors
@@ -74,4 +74,4 @@ Positioning: textbook- and curriculum-exact, teacher-written, plus grounded AI. 
   - Observed 2026-10-11: the property is **web only** (platform WEB 100%). Products are tracked per payment method (`odrabiamy-premium_1_month_payu`, `_3_month_payu`, `_12_month_payu`, `_1_month_dcb`, `_30_day_dcb`). On the home card these showed 0 bought items while Purchases showed ~1.5k, so item-level e-commerce tracking may be broken or misnamed ⚠. Custom insights need edit rights (the designer is read-only).
 
 ## Known gaps (ask the designer before assuming)
-Real metrics (MAU, paying users, conversion rate, web vs app split; get them from GA4) · who leads design/engineering · Odrabiak illustration Figma link · app tech stack · satellite free/Premium rules, owners and roadmaps · other research assets (NPS, support themes, past research) · A/B testing practice.
+Real metrics (MAU, paying users, conversion rate, web vs app split; get them from GA4) · who leads design/engineering · Odrabiak illustration Figma link · app tech stack · satellite owners and roadmaps (free/Premium audit: https://claude.ai/code/artifact/0f6ed47f-d416-44d8-80a1-6ed3da9412f3) · other research assets (NPS, support themes, past research) · A/B testing practice.
