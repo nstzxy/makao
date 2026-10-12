@@ -6,7 +6,7 @@
 | Design System WEB 2.0 (library) | Design-System-WEB-2.0 | `TYJ2jXpMeucSOqeGNmhjMX` |
 | Oferta 2026 (offer / pricing for parents) | RAW \| Oferta 2026 | `9BxxFK7x8eAGfGEokS4VEH` |
 
-Oferta 2026 landmarks (may move — re-read before editing): page "1366", master frame `2464:51900` "1366 Offer Parents – final 01"; responsive frames to its right; earlier pages "Oferta Rodzic", sections "finals" / "semi-final".
+Oferta 2026 landmarks (may move — re-read before editing): page "👨‍👩‍👦 Parent Offer" (`2361:26690`), section "parent offer", master frame `2464:51900` "1366 Offer Parents – final 01"; responsive frames to its right. Page "🎓 Student Offer" (`2561:40005`), section "student offer": `2561:40006` "1366 | Offer Students — v1 (review)" (one page for SP + szkoła średnia, no Rodzic/Uczeń switch; "Kup albo poproś rodzica"), local 🆕 `Ask Parent Card / Share link` `2561:42692`. Earlier pages "Oferta Rodzic", sections "finals" / "semi-final".
 
 Which DS applies where (designer, 2026-10-11):
 - **odrabiamy.pl** → mostly DS WEB 2.0.
