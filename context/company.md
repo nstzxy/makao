@@ -14,7 +14,8 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 ## Products
 - **Odrabiamy.pl (web) + app "Odrabiamy – pomoc w nauce"** (iOS / Android):
   - Rozwiązania krok po kroku written by teachers, mapped to specific Polish textbooks and pages (3 000+ books). This is the moat.
-  - **Kursy wideo**: 100+ courses, E8 / matura.
+  - **Kursy wideo**: 100+ courses (sprawdziany, E8, matura); **all of them are included in Premium** (designer, 2026-10-12).
+  - Live offer page claims support in **20+ subjects** and that Premium works on computer, phone and tablet, on the web and in the app ✓ (odrabiamy.pl/oferta/dostep-premium, 2026-10-12).
   - Free notes, tests and worksheets.
   - **Odrabiak** AI assistant and **Odrabiak Pro** (grounded in textbook content; explains, grades the student's solution, quizzes; accepts photos).
   - Textbook barcode scanner in the app.
@@ -39,7 +40,9 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 - Premium: **Miesiąc 49 zł · 3 miesiące 99 zł · Rok 249 zł** (≈ 21 zł / mies.; the 21 zł annual anchor is fixed). Order on page: Miesiąc | 3 miesiące | Rok.
 - **Web = one-time payment, no auto-renewal, no stored card data.** ✓ Regulamin: access switches off when the period ends; renewing needs a new payment. Web methods: PayU przelew (online or tradycyjny, up to 3 business days), BLIK, karta, Google Pay, Apple Pay, SMS+ (Mobiltek, 48 zł one-time).
 - Subscriptions exist **only in the mobile apps** ✓ (App Store / Google Play; periods 1 mies., 3 mies., rok; store rules: billed amount must be most prominent).
-- 14 dni na odstąpienie od umowy ✓.
+- 14 dni na odstąpienie od umowy ✓. If the buyer agreed to start immediately (required to start Premium), the refund is proportional to the unused period ✓ (regulamin).
+- Premium switches on once the payment is confirmed, usually within about a minute (designer, 2026-10-12).
+- Invoices (faktury) are issued on request via kontakt@odrabiamy.pl; few people ask, so leave them out of the main FAQ (designer, 2026-10-12).
 - Account = one person; max one mobile device + one computer per day, or a temporary block ✓ (regulamin).
 - Usage limits in regulamin ✓: max 240 tasks viewed/day and 15 questions/day in the AI tab (worded as general limits; the designer says Premium has no limits).
 
