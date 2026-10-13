@@ -35,6 +35,9 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 - **There is no parent account, no parent "mode", no parental controls.** Premium is bought while logged into the child's account (or the parent creates an account and hands the login to the child). In the apps, the child can ask and the parent approves via Google Play / App Store "ask to buy".
 - The "Jestem rodzicem / Jestem uczniem" switch on landings only changes the messaging (and routes students to their landing). Prices and package contents are identical.
 - Parents often just want to see what the platform is; most don't know there are student/parent distinctions.
+- Web login methods: e-mail + hasło, Apple, Google (designer, 2026-10-13).
+- **Security rule: no screen may reveal whether an e-mail has an account** (checkout, rejestracja, reset hasła, logowanie). Show the same message for every e-mail and continue by e-mail, so nobody can test which addresses are in the database (account enumeration). The current checkout says "zaloguj się" when the e-mail exists, which breaks this rule (designer, 2026-10-13).
+- Buying Premium without logging in (designer's mockup, 2026-10-13): the buyer can be a parent or a student, so the copy must work for both.
 
 ## Pricing & payments (designer-confirmed)
 - Premium: **Miesiąc 49 zł · 3 miesiące 99 zł · Rok 249 zł** (≈ 21 zł / mies.; the 21 zł annual anchor is fixed). Order on page: **Rok | 3 miesiące | Miesiąc** (designer-confirmed 2026-10-13; on a vertical list Rok is on top).
