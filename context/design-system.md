@@ -29,7 +29,7 @@ Figma org: MAKALU MEDIA. The Figma connector must be signed in as the **work** a
 - Collections: Colors, **Units** (modes Desktop / Tablet / Mobile; e.g. `Spacing (Layout)/horizontal/main-margin`), Spacing/*, Radius/* (4–24), shadow `shadow/01px`.
 
 ## Components (known)
-Main Button (40px tall — below 44px touch target, flag it), Bullet Point, Tag, Chip, Price Tag (RAW), Summary line – semi, Accordion, Segmented Control, Carousel, Opinion, Top Bar Menu (sizes 1366+/1024+/800+/600+/320+), Footer (800+/600+/320+), Icons/18/*.
+Main Button (40px tall — below 44px touch target, flag it; max width 448px, not overridable in instances; width rule (designer, 2026-10-13): **Fill only on mobile (360/320), Hug on tablet (800/600)**), Bullet Point, Tag, Chip, Price Tag (RAW), Summary line – semi, Accordion, Segmented Control, Carousel, Opinion, Top Bar Menu (sizes 1366+/1024+/800+/600+/320+), Footer (800+/600+/320+), Icons/18/*.
 The Rodzic/Uczeń switch on Oferta is currently hand-built, not a DS component.
 
 ## Breakpoints
