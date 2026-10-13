@@ -37,7 +37,7 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 - Parents often just want to see what the platform is; most don't know there are student/parent distinctions.
 
 ## Pricing & payments (designer-confirmed)
-- Premium: **Miesiąc 49 zł · 3 miesiące 99 zł · Rok 249 zł** (≈ 21 zł / mies.; the 21 zł annual anchor is fixed). Order on page: Miesiąc | 3 miesiące | Rok.
+- Premium: **Miesiąc 49 zł · 3 miesiące 99 zł · Rok 249 zł** (≈ 21 zł / mies.; the 21 zł annual anchor is fixed). Order on page: **Rok | 3 miesiące | Miesiąc** (designer-confirmed 2026-10-13; on a vertical list Rok is on top).
 - **Web = one-time payment, no auto-renewal, no stored card data.** ✓ Regulamin: access switches off when the period ends; renewing needs a new payment. Web methods: PayU przelew (online or tradycyjny, up to 3 business days), BLIK, karta, Google Pay, Apple Pay, SMS+ (Mobiltek, 48 zł one-time). On offer pages, name the methods as **BLIK · PayU · karta (Visa)**; never Przelewy24 (designer, 2026-10-12).
 - Subscriptions exist **only in the mobile apps** ✓ (App Store / Google Play; periods 1 mies., 3 mies., rok; store rules: billed amount must be most prominent).
 - 14 dni na odstąpienie od umowy ✓. If the buyer agreed to start immediately (required to start Premium), the refund is proportional to the unused period ✓ (regulamin).
