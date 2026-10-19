@@ -7,6 +7,7 @@
 | Oferta 2026 (offer / pricing for parents) | RAW \| Oferta 2026 | `9BxxFK7x8eAGfGEokS4VEH` |
 
 Oferta 2026 landmarks (may move — re-read before editing): page "👨‍👩‍👦 Parent Offer" (`2361:26690`), section "parent offer", master frame `2464:51900` "1366 Offer Parents – final 01"; responsive frames to its right. Page "🎓 Student Offer" (`2561:40005`), section "student offer": `2561:40006` "1366 | Offer Students — v1 (review)" (one page for SP + szkoła średnia, no Rodzic/Uczeń switch; "Kup albo poproś rodzica"), local 🆕 `Ask Parent Card / Share link` `2561:42692`. Earlier pages "Oferta Rodzic", sections "finals" / "semi-final".
+Page "👨‍👩‍👦 Parent Offer final", section "parent offer" (`2626:40197`): local component set `🆕 Paywall` (`2646:47530`, 2026-10-19) with `Size=800+` (1366/1024/800, two columns) · `600+` (stacked, plans in a row) · `320+` (360/320, stacked, plans as a list, padding 16). Built from the frame "Paywall - main component/600+" (`2643:49978`); the page frames still use detached copies, not instances. Local components for this page also sit in section "🧩 Responsive components" (`2626:44843`): Feature Tile, Sticky CTA, Step Toggle, Segmented Control.
 
 Which DS applies where (designer, 2026-10-11):
 - **odrabiamy.pl** → mostly DS WEB 2.0.
