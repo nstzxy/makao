@@ -53,7 +53,7 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 | | Free | Premium |
 |---|---|---|
 | Rozwiązania w podręcznikach | selected exercises only | all exercises in all books |
-| Kursy wideo i lekcje | — | all |
+| Kursy wideo i lekcje | selected free courses marked „Darmowy” on /kursy (e.g. „Opracowanie pytań jawnych 2027”, „Jak używać AI do nauki?”) ✓ 2026-10-21; Oferta says „Wybrane lekcje wideo” | all |
 | AI on the book page | — | yes |
 | Odrabiak (AI) | basic, cheaper LLM, daily limits | stronger LLM, no limits |
 | Satellites (checked 2026-10-11) | ustna: 20/50 niejawne + 20/50 EN sets, 1 of 5 common errors · arkusze: all CKE tasks, no zadania autorskie · fiszki: ~same as Premium · kartypracy: poziom Odkrywca only · konkursy, blog: no login, no difference | ustna: all sets + transkrypcja PRO · arkusze: zadania autorskie, Odrabiak PRO plan, per-task stats · fiszki: Odrabiak PRO · kartypracy: Mistrz, Ekspert, Wersja A/B |
@@ -83,6 +83,11 @@ Positioning: textbook- and curriculum-exact, teacher-written, plus grounded AI. 
 ## Offer page content (designer, 2026-10-12)
 - Claims on Oferta 2026 („Najczęściej wybierany”, 4 mln, „Co 4. uczeń”, 1,4 mln, 4,7/5, 80–120 zł/h, 200–400 zł, „20 minut”, czat) are approved by the designer as they are; don't flag them again.
 - Parent testimonials are **placeholders**; real photos and reviews are pending. Mark them as placeholders in Figma until then.
+
+## Homepage content (designer, 2026-10-21)
+- Don't show how many teachers we have (no „70 nauczycieli” or any count).
+- Not current for the homepage: Tablica (300 tys. wpisów), blog article count, „1,4 mln zadań”.
+- The live homepage (checked 2026-10-21) still says „Ponad 50 doświadczeń i 500 wideolekcji” and lists AI as Premium only. /kursy has ~105 courses (11 pages).
 
 ## Known gaps (ask the designer before assuming)
 Real metrics (MAU, paying users, conversion rate, web vs app split; get them from GA4) · who leads design/engineering · Odrabiak illustration Figma link · app tech stack · satellite owners and roadmaps (free/Premium audit: `context/audits/2026-10-11-satelity-free-vs-premium.md`) · other research assets (NPS, support themes, past research) · A/B testing practice.
