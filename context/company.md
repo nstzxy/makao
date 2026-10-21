@@ -61,6 +61,7 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 
 ## Competitors
 Brainly (biggest, Kraków-born, community + AI), Photomath (maths, photo), Gauth (ByteDance AI), ChatGPT / Gemini, zadania.info, matematykaszkolna.pl, private tutoring.
+PL scan 2026-10-21 (logged-out, built-in browser) ⚠ check before quoting: Squla shows its price in the hero ("Już od 17,50 zł /miesiąc", annual ≈ 210 zł, auto-renews, 30-day money-back on annual); Knowunity Pro auto-renews; eTrapez sells "Płacisz raz — bez abonamentu" (all courses 299 zł); Skul (Interia) offers free textbook solutions with the page title "Odrabiamy za darmo zadania z podręczników"; Pi-stacja and ZPE are free. Tutoring: maths ≈ 67 zł/h on average (e-korepetycje.net, 2026), 53–75 zł per lesson (kb.pl, 07.01.2026). This is below the Oferta claim "80–120 zł/h", so source it or align ⚠. Gaps nobody claims: no auto-renewal, a cost comparison with tutoring, textbook → exam → AI in one place.
 Positioning: textbook- and curriculum-exact, teacher-written, plus grounded AI. It aims to be a learning platform that replaces tutoring, not just homework answers.
 
 ## Market & regulation
