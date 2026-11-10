@@ -8,7 +8,7 @@ Sources: designer's input in past sessions (treated as truth) + public web resea
 - Public financials (KRS ⚠): revenue ~29 mln zł (2023, 2024) → ~22 mln zł (2025), loss in the latest year. Growth/retention of paying users is the business priority.
 - **Current priority (designer, 2026-10-11): conversion** (free → Premium). Judge ideas by their conversion effect first.
 - **Stakeholders:** ideas go to the CEO. The focus is on strong ideas, not polished presentations.
-- **Brand:** no brand book or tone-of-voice guide exists; `copy-pl` is the de facto tone. Odrabiak mascot illustrations live in Figma files (link pending); the visual direction is **3D**.
+- **Brand:** no full brand book or tone-of-voice guide exists (only „Księga znaku” v1.1 for the logo, see `design-system.md` › Logo); `copy-pl` is the de facto tone. Odrabiak mascot illustrations live in Figma files (link pending); the visual direction is **3D**.
 - "Grupa Odrabiamy" = the main product + satellite sites (brand label, not a separate legal entity ⚠).
 
 ## Products
