@@ -23,7 +23,7 @@ Default: landing/pricing/payment → **Rodzic**; in-product (solutions, Odrabiak
 - **Krótko.** One idea per sentence. Headline ≤ 6–8 words, subline ≤ 15–20 words, CTA 1–3 words (czasownik: „Wybierz plan", „Sprawdź rozwiązanie").
 - **Konkret zamiast obietnic** — numbers, real features, real outcomes. No invented stats or testimonials.
 - **Ciepło, bez winy.** Never imply a parent is failing or a student is lazy. Positive framing over pain.
-- **Uczciwie.** No fake urgency or misleading discounts; savings say what they compare to („o 339 zł taniej niż 12 × 49 zł").
+- **Uczciwie.** No fake urgency or misleading discounts; savings say what they compare to („o 339 zł taniej niż 12 × 49 zł"). Never claim Premium adds something in „każdym narzędziu” / „wszystkich narzędziach”: Konkursy i stypendia and the blog are fully free, and Fiszki are almost the same on Free. Name the tools where Premium really adds value (check the Free vs Premium table in `context/company.md`).
 - **Nie jak AI.** No "Odkryj…", "Rewolucyjny…", "W dzisiejszym świecie…", triplets of adjectives, em-dash chains, emojis everywhere.
 - **Spójnie.** Use the glossary below; same thing = same word everywhere.
 
