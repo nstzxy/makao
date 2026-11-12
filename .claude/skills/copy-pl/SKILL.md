@@ -30,7 +30,7 @@ Default: landing/pricing/payment → **Rodzic**; in-product (solutions, Odrabiak
 ## 3. Glossary (keep consistent)
 - Odrabiamy (brand) · Premium · Odrabiak Pro · Kursy wideo · rozwiązania krok po kroku
 - Plan names: Miesiąc · 3 miesiące · Rok
-- Prices: „49 zł", „249 zł / rok", „ok. 21 zł / mies." (non-breaking space before „zł")
+- Prices: „49 zł", „249 zł / rok", „20,75 zł / mies." (annual plan; always next to „249 zł za rok”; „ok. 21 zł / mies." also OK) (non-breaking space before „zł")
 - Prefer „uczeń" / „dziecko" consistently within a screen; don't mix.
 (Extend this list as decisions are made — ask the designer before introducing a new term.)
 
